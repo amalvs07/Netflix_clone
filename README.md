@@ -19,4 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 ##flutter pub run build_runner watch --delete-conflicting-outputs
 
 
-This is newly added
+Screenshots are down below:
+
+![photo_2023-12-18_18-38-01](https://github.com/amalvs07/Netflix_clone/assets/108692893/727d6e1c-6206-4504-953d-32c61a3ab61f)
+
